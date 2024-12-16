@@ -2,7 +2,6 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import plotly.express as px
-# import talib # Changed back to talib
 import pandas_ta as ta
 from pypfopt.efficient_frontier import EfficientFrontier
 from pypfopt import risk_models
